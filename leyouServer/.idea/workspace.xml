@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="157e3234-9706-444d-a26d-00e8ecdde34d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\zen\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZxGWcQe1gFgqLrze2hMZ5dTla5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.49947312" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication">
+    <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="leyouServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.leyou.ServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="leyouStock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.leyou.StockApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="leyouStorage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.leyou.StorageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="leyouTimeServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.leyou.TimeServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="leyouServer" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="leyouUser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.leyou.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.33" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_leyouServer" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60424" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Unnamed" />
+      <item itemvalue="Spring Boot.ServerApplication" />
+      <item itemvalue="Spring Boot.TimeServerApplication" />
+      <item itemvalue="Spring Boot.StockApplication" />
+      <item itemvalue="Spring Boot.StorageApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.StorageApplication" />
+        <item itemvalue="Spring Boot.StockApplication" />
+        <item itemvalue="Spring Boot.TimeServerApplication" />
+        <item itemvalue="Spring Boot.ServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.21771523" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="157e3234-9706-444d-a26d-00e8ecdde34d" name="Default Changelist" comment="" />
+      <created>1585773363550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585773363550</updated>
+      <workItem from="1585773365123" duration="10987000" />
+      <workItem from="1585839805155" duration="16238000" />
+      <workItem from="1585965276152" duration="307000" />
+      <workItem from="1586523593600" duration="9987000" />
+      <workItem from="1586571993386" duration="176000" />
+      <workItem from="1586861004842" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1586530010786">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1586530010786" />
+    <state x="268" y="0" key="#Tomcat_Server" timestamp="1585776442331">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="268" y="0" key="#Tomcat_Server/0.0.1280.680@0.0.1280.680" timestamp="1585776442331" />
+    <state x="96" y="0" width="1159" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585777144435">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" width="1159" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585777144435" />
+    <state x="268" y="0" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1585777142551">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="268" y="0" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1280.680@0.0.1280.680" timestamp="1585777142551" />
+    <state x="456" y="82" key="FileChooserDialogImpl" timestamp="1586676173765">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="456" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586676173765" />
+    <state width="944" height="314" key="GridCell.Tab.0.bottom" timestamp="1586529677787">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="944" height="314" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586529677787" />
+    <state width="944" height="314" key="GridCell.Tab.0.center" timestamp="1586529677786">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="944" height="314" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586529677786" />
+    <state width="944" height="314" key="GridCell.Tab.0.left" timestamp="1586529677786">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="944" height="314" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586529677786" />
+    <state width="944" height="314" key="GridCell.Tab.0.right" timestamp="1586529677787">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="944" height="314" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586529677787" />
+    <state width="944" height="270" key="GridCell.Tab.1.bottom" timestamp="1586529570497">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="944" height="270" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586529570497" />
+    <state width="944" height="270" key="GridCell.Tab.1.center" timestamp="1586529570497">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="944" height="270" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586529570497" />
+    <state width="944" height="270" key="GridCell.Tab.1.left" timestamp="1586529570496">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="944" height="270" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586529570496" />
+    <state width="944" height="270" key="GridCell.Tab.1.right" timestamp="1586529570497">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="944" height="270" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586529570497" />
+    <state width="944" height="242" key="GridCell.Tab.2.bottom" timestamp="1586529473183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="944" height="242" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586529473183" />
+    <state width="944" height="242" key="GridCell.Tab.2.center" timestamp="1586529473183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="944" height="242" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1586529473183" />
+    <state width="944" height="242" key="GridCell.Tab.2.left" timestamp="1586529473183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="944" height="242" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1586529473183" />
+    <state width="944" height="242" key="GridCell.Tab.2.right" timestamp="1586529473183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="944" height="242" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1586529473183" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1585840267876">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585840267876" />
+    <state x="28" y="36" key="new project wizard" timestamp="1586529757495">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="36" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1586529757495" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../leyouUser/src/main/java/com/itheima/leyou/controller/UserController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
